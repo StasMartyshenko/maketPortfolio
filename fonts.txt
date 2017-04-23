@@ -1,0 +1,13 @@
+
+Lato Bold 54px
+WORKING WITH design LAB
+
+
+Lato Regular 15 px font-family: 'Lato', sans-serif;
+We’ve been helping startups launch and grow their businesses. We help you to fill the gap between development, design and product management.
+
+ABOUT US 
+Lato Bold 34
+
+Lato Light 16
+ When you work with us, you are part of a team of committed collaborators. All aspects of our software development process are integrated, iterative and agile. Our approach unifies design, development and product management to create exceptional products. We start each project by understanding your business goals, the user’s needs and the product requirements. Then we help translate them into effective and elegant solutions.
