@@ -66,18 +66,46 @@
     letter-spacing: 5px;
     color: #3c3c3c;
     text-align: center;
-/*    position: absolute;*/
-/*    overflow: visible;*/
+    position: relative;
+    bottom: 25px;
+    background-color: white;
+    margin: auto;
+    width: 400px;
 }
 
 .contentAboutUs {
     font: 16px 'Lato', sans-serif;
     color: #3c3c3c;
     text-align: center;
+    margin-top: 35px;
+    margin-bottom: 20px;
 }
 
 .about {
     border: 3px solid black;
     width: 1594px;
     margin: 160px auto;
+    padding-bottom: 50px;
+}
+
+.service {
+    background-image: url(image/services.png);
+    background-repeat: no-repeat;
+    margin: auto;
+    width: 1600px;
+    height: 488px;
+    border: 3px solid white;
+}
+
+.servicesTitle {
+    font: bold 34px 'Lato';
+    color: #ffffff;
+    letter-spacing: 5px;
+    text-align: center;
+}
+
+.contentServices {
+    font: 16px 'Lato';
+    color: #ffffff;
+    text-align: center;
 }
